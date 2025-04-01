@@ -39,7 +39,7 @@ Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser di
 
 - **Site**: [RM Developer](https://www.rmdeveloper.com.br)
 - **Email**: [contato@rmdeveloper.com.br](mailto:contato@rmdeveloper.com.br)
-- **LinkedIn**: [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
+- **LinkedIn**: [Samuel Ziger](https://www.linkedin.com/in/ricardomouradev/)
 - **WhatsApp**: [(47) 99216-4395](https://wa.me/5547992164395)
 
 Obrigado por visitar meu portfólio!
