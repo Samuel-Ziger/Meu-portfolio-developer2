@@ -1,7 +1,5 @@
 # RM Developer │ Portfolio
 
-# Imagem do Projeto
-![imagem do projeto](./assets/image/rm-dev-portfolio2.0.png "Link Bio RM Dev 2.0")
 
 Este repositório contém o código-fonte do meu site pessoal de portfólio, a RM Developer. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
@@ -37,9 +35,5 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 
 Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
 
-- **Site**: [RM Developer](https://www.rmdeveloper.com.br)
-- **Email**: [contato@rmdeveloper.com.br](mailto:contato@rmdeveloper.com.br)
-- **LinkedIn**: [Samuel Ziger](https://www.linkedin.com/in/ricardomouradev/)
-- **WhatsApp**: [(47) 99216-4395](https://wa.me/5547992164395)
 
 Obrigado por visitar meu portfólio!
