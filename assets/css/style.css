@@ -475,7 +475,7 @@ body {
 .skills {
     width: 100%;
     height: auto;
-    padding: 2.5rem 0rem;
+    padding: 5rem 0rem 2.5rem 0rem;
     display: flex;
     justify-content: center;
     align-items: center;
