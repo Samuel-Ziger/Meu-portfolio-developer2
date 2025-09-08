@@ -1144,6 +1144,171 @@ body {
     transition: opacity 0.3s ease;
 }
 
+/* EDUCATION */
+.education {
+    width: 100%;
+    height: auto;
+    padding: 2rem 0rem 2.5rem 0rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-education {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.education-section {
+    width: 100%;
+    margin-bottom: 3rem;
+    background-color: #151515;
+    border-radius: 25px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--blue);
+}
+
+.section-header i {
+    font-size: 2rem;
+    color: var(--blue);
+}
+
+.section-header h2 {
+    font-size: 1.8rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: var(--white);
+}
+
+.education-item {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+    background-color: #1a1a1a;
+    border-radius: 15px;
+    transition: transform 0.3s ease;
+}
+
+.education-item:hover {
+    transform: translateY(-2px);
+}
+
+.education-date {
+    font-size: 1rem;
+    color: var(--blue);
+    font-weight: 600;
+    min-width: 120px;
+    text-align: center;
+    padding: 0.5rem;
+    background-color: rgba(0, 123, 255, 0.1);
+    border-radius: 8px;
+}
+
+.education-content h3 {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--white);
+    margin-bottom: 0.5rem;
+}
+
+.institution {
+    font-size: 1.1rem;
+    color: var(--blue);
+    font-weight: 500;
+    margin-bottom: 0.3rem;
+}
+
+.type {
+    font-size: 0.9rem;
+    color: var(--gray);
+    font-style: italic;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.skill-item {
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 0.8rem 1.2rem;
+    border-radius: 25px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.skill-item:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.courses-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.course-item {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+    padding: 1rem;
+    background-color: #1a1a1a;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.course-item:hover {
+    background-color: #202020;
+    transform: translateX(5px);
+}
+
+.course-date {
+    font-size: 0.9rem;
+    color: var(--blue);
+    font-weight: 600;
+    min-width: 100px;
+    text-align: center;
+    padding: 0.3rem 0.5rem;
+    background-color: rgba(0, 123, 255, 0.1);
+    border-radius: 5px;
+}
+
+.course-content h4 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--white);
+    margin-bottom: 0.3rem;
+    line-height: 1.3;
+}
+
+.course-institution {
+    font-size: 0.9rem;
+    color: var(--gray);
+    font-style: italic;
+}
+
 /* Footer */
 .footer {
     width: 100%;
